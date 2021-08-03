@@ -377,7 +377,7 @@ section .title::after{
 
 /* footer styling */
 footer{
-    margin-left: 450px;
+    text-align: center;
     font-family: 'Bubblegum Sans', cursive;
     font-family: 'Ubuntu', sans-serif;
 }
